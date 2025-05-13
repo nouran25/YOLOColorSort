@@ -1,0 +1,8 @@
+path: D:\RoboticArm\YOLOColorSort\dataset-1
+
+train: train
+val: valid
+test: test
+
+nc: 6
+names: ['blue_box', 'green_box', 'red_box', 'blue_ball', 'green_ball', 'red_ball']
