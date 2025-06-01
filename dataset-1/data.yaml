@@ -1,0 +1,17 @@
+names:
+- blue_ball
+- blue_box
+- green_ball
+- green_box
+- red_ball
+- red_box
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: dataset-v19jd
+  url: https://universe.roboflow.com/nouran/dataset-v19jd/dataset/1
+  version: 1
+  workspace: nouran
+test: ../test/images
+train: ../train/images
+val: ../valid/images
