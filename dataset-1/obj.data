@@ -1,5 +1,0 @@
-classes = 6
-train = d:\RoboticArm\YOLOColorSort\dataset-1\train.txt
-valid = d:\RoboticArm\YOLOColorSort\dataset-1\valid.txt
-names = d:\RoboticArm\YOLOColorSort\dataset-1\obj.names
-backup = backup/
